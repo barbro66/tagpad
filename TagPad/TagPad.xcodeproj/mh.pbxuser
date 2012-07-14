@@ -1,0 +1,339 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TagPadAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1115, 466}}";
+			sepNavSelRange = "{476, 0}";
+			sepNavVisRange = "{0, 476}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TagPadAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 897}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1145}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TagPad */ = {
+		activeExec = 0;
+		executables = (
+			EC1C21DC131DC1CC00249CCE /* TagPad */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TagPadViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1115, 583}}";
+			sepNavSelRange = "{384, 0}";
+			sepNavVisRange = "{0, 384}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TagPadViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {700, 1833}}";
+			sepNavSelRange = "{263, 0}";
+			sepNavVisRange = "{150, 458}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EC1C21DC131DC1CC00249CCE /* TagPad */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TagPad */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TagPad */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = EC1C21F0131DC1F100249CCE /* Code sense */;
+		executables = (
+			EC1C21DC131DC1CC00249CCE /* TagPad */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					937,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320957137;
+			PBXWorkspaceStateSaveDate = 320957137;
+		};
+		perUserProjectItems = {
+			EC1C222F131DD34B00249CCE /* PBXTextBookmark */ = EC1C222F131DD34B00249CCE /* PBXTextBookmark */;
+			EC1C2242131E0D2A00249CCE /* PBXTextBookmark */ = EC1C2242131E0D2A00249CCE /* PBXTextBookmark */;
+			EC1C226B131E101F00249CCE /* PBXTextBookmark */ = EC1C226B131E101F00249CCE /* PBXTextBookmark */;
+			EC1C2281131E15A300249CCE /* PlistBookmark */ = EC1C2281131E15A300249CCE /* PlistBookmark */;
+			EC1C2292131E166200249CCE /* PBXTextBookmark */ = EC1C2292131E166200249CCE /* PBXTextBookmark */;
+			EC1C233E131E210A00249CCE /* PBXTextBookmark */ = EC1C233E131E210A00249CCE /* PBXTextBookmark */;
+			EC1C2373131E245F00249CCE /* PBXTextBookmark */ = EC1C2373131E245F00249CCE /* PBXTextBookmark */;
+			EC93CFA0131F05850003A30C /* PBXTextBookmark */ = EC93CFA0131F05850003A30C /* PBXTextBookmark */;
+			EC93CFA1131F05850003A30C /* PBXTextBookmark */ = EC93CFA1131F05850003A30C /* PBXTextBookmark */;
+			EC93CFA3131F05850003A30C /* PBXTextBookmark */ = EC93CFA3131F05850003A30C /* PBXTextBookmark */;
+			EC93CFA4131F05850003A30C /* PBXTextBookmark */ = EC93CFA4131F05850003A30C /* PBXTextBookmark */;
+			ECECAA0A13216AF200A2F9C1 /* PBXTextBookmark */ = ECECAA0A13216AF200A2F9C1 /* PBXTextBookmark */;
+			ECECAA0B13216AF200A2F9C1 /* XCBuildMessageTextBookmark */ = ECECAA0B13216AF200A2F9C1 /* XCBuildMessageTextBookmark */;
+			ECECAA0C13216AF200A2F9C1 /* PBXTextBookmark */ = ECECAA0C13216AF200A2F9C1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = EC1C21EF131DC1F100249CCE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	EC1C21DC131DC1CC00249CCE /* TagPad */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TagPad;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	EC1C21EF131DC1F100249CCE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EC1C21F0131DC1F100249CCE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EC1C222F131DD34B00249CCE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TagPadAppDelegate.h */;
+		name = "TagPadAppDelegate.h: 23";
+		rLen = 0;
+		rLoc = 476;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 0;
+	};
+	EC1C223B131E056D00249CCE /* MyCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1115, 588}}";
+			sepNavSelRange = "{219, 0}";
+			sepNavVisRange = "{0, 219}";
+		};
+	};
+	EC1C223C131E056D00249CCE /* MyCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1115, 588}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 186}";
+		};
+	};
+	EC1C2242131E0D2A00249CCE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TagPadAppDelegate.m */;
+		name = "TagPadAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1145;
+		vrLoc = 0;
+	};
+	EC1C224A131E0DE500249CCE /* UITableView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITableView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h;
+		sourceTree = "<absolute>";
+	};
+	EC1C226B131E101F00249CCE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC1C226C131E101F00249CCE /* UIViewController.h */;
+		name = "UIViewController.h: 118";
+		rLen = 149;
+		rLoc = 4697;
+		rType = 0;
+		vrLen = 3565;
+		vrLoc = 3564;
+	};
+	EC1C226C131E101F00249CCE /* UIViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIViewController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h;
+		sourceTree = "<absolute>";
+	};
+	EC1C2281131E15A300249CCE /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = EC1C227F131E121700249CCE /* questions.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/mh/Svn/dl/iphone/TagPad/questions.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	EC1C2292131E166200249CCE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC1C2293131E166200249CCE /* UINavigationBar.h */;
+		name = "UINavigationBar.h: 19";
+		rLen = 76;
+		rLoc = 405;
+		rType = 0;
+		vrLen = 1017;
+		vrLoc = 0;
+	};
+	EC1C2293131E166200249CCE /* UINavigationBar.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UINavigationBar.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationBar.h;
+		sourceTree = "<absolute>";
+	};
+	EC1C233E131E210A00249CCE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC1C224A131E0DE500249CCE /* UITableView.h */;
+		name = "UITableView.h: 374";
+		rLen = 0;
+		rLoc = 20138;
+		rType = 0;
+		vrLen = 2175;
+		vrLoc = 19142;
+	};
+	EC1C2373131E245F00249CCE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC1C2374131E245F00249CCE /* UIView.h */;
+		name = "UIView.h: 166";
+		rLen = 114;
+		rLoc = 7944;
+		rType = 0;
+		vrLen = 1940;
+		vrLoc = 6819;
+	};
+	EC1C2374131E245F00249CCE /* UIView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h;
+		sourceTree = "<absolute>";
+	};
+	EC93CF59131EFB740003A30C /* CardsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1115, 588}}";
+			sepNavSelRange = "{229, 0}";
+			sepNavVisRange = "{0, 236}";
+		};
+	};
+	EC93CFA0131F05850003A30C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC1C223B131E056D00249CCE /* MyCell.h */;
+		name = "MyCell.h: 17";
+		rLen = 0;
+		rLoc = 219;
+		rType = 0;
+		vrLen = 219;
+		vrLoc = 0;
+	};
+	EC93CFA1131F05850003A30C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC93CFA2131F05850003A30C /* UISplitViewController.h */;
+		name = "UISplitViewController.h: 28";
+		rLen = 0;
+		rLoc = 890;
+		rType = 0;
+		vrLen = 2047;
+		vrLoc = 171;
+	};
+	EC93CFA2131F05850003A30C /* UISplitViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UISplitViewController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISplitViewController.h;
+		sourceTree = "<absolute>";
+	};
+	EC93CFA3131F05850003A30C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC1C223C131E056D00249CCE /* MyCell.m */;
+		name = "MyCell.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 186;
+		vrLoc = 0;
+	};
+	EC93CFA4131F05850003A30C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC93CF59131EFB740003A30C /* CardsViewController.h */;
+		name = "CardsViewController.h: 14";
+		rLen = 0;
+		rLoc = 229;
+		rType = 0;
+		vrLen = 236;
+		vrLoc = 0;
+	};
+	ECECAA0A13216AF200A2F9C1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TagPadViewController.h */;
+		name = "TagPadViewController.h: 19";
+		rLen = 0;
+		rLoc = 384;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 0;
+	};
+	ECECAA0B13216AF200A2F9C1 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected identifier or '(' before 'if'";
+		fRef = 28D7ACF70DDB3853001CB0EB /* TagPadViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 14;
+		rType = 1;
+	};
+	ECECAA0C13216AF200A2F9C1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TagPadViewController.m */;
+		name = "TagPadViewController.m: 15";
+		rLen = 0;
+		rLoc = 264;
+		rType = 0;
+		vrLen = 1530;
+		vrLoc = 0;
+	};
+}

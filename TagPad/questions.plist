@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>questions</key>
+			<array>
+				<string>What software do you use?</string>
+				<string>What sort of computer do you use?</string>
+				<string>Do you have an other video editing devices - keyboard cover, special mouse, screen etc.?</string>
+			</array>
+			<key>title</key>
+			<string>Technologies</string>
+		</dict>
+		<dict>
+			<key>questions</key>
+			<array>
+				<string>Where do you do your editing?</string>
+				<string>What time of day best suits your editing?</string>
+				<string>Are there other things like paper, drinks etc that you have around you when you edit?</string>
+				<string>How much of the footage you have makes it to editing?</string>
+			</array>
+			<key>title</key>
+			<string>Situation</string>
+		</dict>
+		<dict>
+			<key>questions</key>
+			<array>
+				<string>Do you edit alone or with others?</string>
+				<string>Do you edit only your own materials or other people’s?</string>
+				<string>What sort of audience are you making your video for?</string>
+				<string>Are there deadlines for yourself or others you have to work to in editing?</string>
+				<string>Do you provide advice or tutoring to others in editing?</string>
+			</array>
+			<key>title</key>
+			<string>Collaboration</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Home Video Making Interview Schedule</string>
+</dict>
+</plist>

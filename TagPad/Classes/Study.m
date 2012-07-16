@@ -29,7 +29,7 @@
     NSArray* filesArray = [[NSFileManager defaultManager] contentsOfDirectoryAtPath:documentsPath error:&error];
     if(error != nil) {
         NSLog(@"Error in reading files: %@", [error localizedDescription]);
-        return;
+        return nil;
     }
     
     // sort by creation date
